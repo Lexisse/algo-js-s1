@@ -1,0 +1,11 @@
+#carte {
+	width: 1150px;		/*Afin que la "carte" (le cadre) fasse environ la taille de la page*/
+	margin:0 auto;		/*Afin qu'elle s'aligne automatiquement à la marge à gauche et à droite du cadre */
+	background-color:white;	
+	text-align: center;		/*Afin que le texte s'affiche au milieu de la page et non pas collé à la marge gauche*/
+	align-content: center;	/*Afin que le "contenu" (ici, l'image de shifumi) s'affiche au milieu de la page et ne soit pas collé à la marge gauche*/
+	border-radius: 10px 10px 10px 10px;		/*Arrondit le bord du cadre */
+	border :3px black solid;	/*Définit la taille et la couleur du bord du cadre*/
+}
+/*Etant donné que l'on a pas étudié le css, j'ai mis des commentaires pour montrer que je savais à quoi correspondaient les
+instructions utilisées. */
